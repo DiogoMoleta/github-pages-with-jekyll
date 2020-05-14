@@ -1,5 +1,7 @@
-title: "New Page"
-date: 2020-05-14
+---
+title: "New me"
+date: YYYY-MM-DD
+---
 titulo: Static
 theme: minima
 autor: GitHub User
